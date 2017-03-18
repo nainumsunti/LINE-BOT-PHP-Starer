@@ -1,0 +1,16 @@
+{
+  "name": "LINE-BOT-PHP-Starer",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
